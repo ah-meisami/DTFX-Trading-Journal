@@ -1,0 +1,1 @@
+# DTFX-Trading-Journal
