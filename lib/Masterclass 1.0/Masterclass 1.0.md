@@ -9,7 +9,7 @@
 | [`vide07`](#vide07) | [`vide07`](https://www.youtube.com/watch?v=NL5DO8mJPsc) | `03:45:21` | `2022.06.16` | `-` |
 | [`vide08`](#vide08) | [`vide08`](https://www.youtube.com/watch?v=VV0teyLZWi0) | `03:54:46` | `2022.06.17` | `-` |
 | [`vide09`](#vide09) | [`vide09`](https://www.youtube.com/watch?v=hqX91iZo5_g) | `00:26:41` | `2023.06.22` | `-` |
-| [`vide10`](#vide10) | [`vide10`](https://www.youtube.com/watch?v=RoLhvoEPXsQ) | `01:14:24` | `2023.07.03` | `-` |
+| [`vide10`](#vide10) | [`vide10`](https://www.youtube.com/watch?v=RoLhvoEPXsQ) | `01:14:24` | `2023.07.03` | `Psyche: How Read DTFX` |
 | [`vide11`](#vide11) | [`vide11`](https://www.youtube.com/watch?v=ntyP_urAuZM) | `01:01:33` | `2023.06.01` | `-` |
 | [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:58:52` | `2023.11.11` | `-` |
 
