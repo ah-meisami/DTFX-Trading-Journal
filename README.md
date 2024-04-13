@@ -1,7 +1,7 @@
 # DTFX-Trading-Journal
 
 [`Windsor Brokers WikiFX`](https://www.wikifx.com/en/dealer/1061981862.html)
-[`Windsor Brokers User Portal`](https://km.myuserhub.com/welcome)
+[`Windsor Brokers User Portal`](https://km.mywmportal.com/welcome)
 [`Aban Tether`](https://abantether.com/)
 [`Trading View`](https://www.tradingview.com/)
 [`Bar Chart`](https://www.barchart.com/)
