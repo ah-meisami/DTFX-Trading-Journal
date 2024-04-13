@@ -24,10 +24,10 @@ ___
 | [`01h46m25s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s) | `Look at the LEFT for the Retracement` <br/> `Look at the LEFT for the Continuation` |
 ___  
 ## `vide03`
-##### ⚠️ We're not paying attention to *structure*,  we're paying attention to *strong move*
-##### [https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s]  
-##### ⚠️ Market structure belongs to HTF, Order flow belongs to LTF
-##### [https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s]  
+| #Time | Tips |
+| :---: | :--- |
+| [`01h05m46s`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s) | `We're not paying attention to *structure*,  we're paying attention to *strong move*` |
+| [`01h07m27s`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s) | `Market structure belongs to HTF, Order flow belongs to LTF` |
 ___  
 ## `vide04`  
 ##### ⚠️ Candlestick Structure, Overall Structure, Secondary Structure, Intermediary Structure
