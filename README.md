@@ -23,21 +23,26 @@ ___
 | [``](https://tradethepool.com/change-your-trading-habits-2/) | `HOW TO CHANGE YOUR TRADING HABITS` |
 ___
 
+several types of bias affecting traders’ investment decisions
 
 Behavioral bias
-- [DTFX-Trading-Journal](#dtfx-trading-journal)
-  - [`InternalFactors`](#internalfactors)
+- [`InternalFactors`](#InternalFactors)
+- [`ExternalFactors`](#ExternalFactors)
 
 ## `InternalFactors`
 - Cognitive bias 
 - Emotional bias
 
+## `ExternalFactors`
+- Social bias
 
-Social bias
-Collection of
-information
-› Availability heuristic › Representativeness bias › Regret aversion
-Processing of information
+
+# `Collection of information`
+› Availability heuristic 
+› Representativeness bias 
+› Regret aversion
+
+# `Processing of information`
 › Conformity effect
 › Availability cascade
 › Herding behaviour
@@ -59,5 +64,4 @@ Processing of information
 › Home bias
 › Illusion of knowledge
 › Illusion of control
-Figure 11.1 Main Types of Bias Affecting Traders’ Investment Decisions. The figure
-shows several types of bias affecting traders’ investment decisions. Source: Adapted from
+___
