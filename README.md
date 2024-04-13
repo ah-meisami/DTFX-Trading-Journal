@@ -22,6 +22,9 @@ ___
 ___
 | #Article | Title |
 | [`1`](https://tradethepool.com/change-your-trading-habits-2/) | `HOW TO CHANGE YOUR TRADING HABITS` |
+| [`2`](https://www.investopedia.com/articles/basics/13/how-to-develop-trading-brain.asp) | `How to Develop a "Trading Brain"` |
+| [`3`](https://medium.com/superorder/top-secrets-of-learning-from-bad-trades-a20c57a17a91) | `Top Secrets of Learning from Bad Trades` |
+| [`4`](https://hello-74789.medium.com/trading-mistakes-and-lessons-30a9771d3f4d) | `Trading Mistakes and Lessons` |
 ___
 
 several types of bias affecting traders’ investment decisions
@@ -38,12 +41,12 @@ Behavioral bias
 - Social bias
 
 
-# `Collection of information`
-› Availability heuristic 
+## `Collection of information`
+› [`Availability heuristic`](https://www.farzaanegi.com/availability-heuristic/)
 › Representativeness bias 
 › Regret aversion
 
-# `Processing of information`
+## `Processing of information`
 › Conformity effect
 › Availability cascade
 › Herding behaviour
