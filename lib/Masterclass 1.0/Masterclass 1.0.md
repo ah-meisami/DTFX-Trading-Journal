@@ -4,7 +4,7 @@
 | [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `01:58:26` | `2022.09.01` | `draw zones from WICK TO WICK.` <br/> `draw BOS with a BODY CLOSURE. ` |
 | [`vide03`](#vide03) | [`vide03`](https://www.youtube.com/watch?v=-O1_MSMVBPc) | `01:43:27` | `2023.05.28` | `-` |
 | [`vide04`](#vide04) | [`vide04`](https://www.youtube.com/watch?v=1Vug-H3r88c) | `02:39:33` | `2022.05.13` | `-` |
-| [`vide05`](#vide05) | [`vide05`](https://www.youtube.com/watch?v=x4X7srbXf1k) | `03:08:04` | `2022.06.24` | `-` |
+| [`vide05`](#vide05) | [`vide05`](https://www.youtube.com/watch?v=x4X7srbXf1k) | `03:08:04` | `2022.06.24` | `Entries` |
 | [`vide06`](#vide06) | [`vide06`](https://www.youtube.com/watch?v=Du5ywps8cyI) | `02:00:36` | `2022.06.23` | `-` |
 | [`vide07`](#vide07) | [`vide07`](https://www.youtube.com/watch?v=NL5DO8mJPsc) | `03:45:21` | `2022.06.16` | `-` |
 | [`vide08`](#vide08) | [`vide08`](https://www.youtube.com/watch?v=VV0teyLZWi0) | `03:54:46` | `2022.06.17` | `-` |
@@ -45,9 +45,69 @@ ___
 ## `vide09`  
 ___  
 ## `vide10`  
+https://twitter.com/LowkeyTrading
+
+___
+00:05:42
+discipline
+
+104
+00:05:45,060 --> 00:05:48,380
+and the right information
+___
+
+
+00:09:22,440 --> 00:09:25,560
+entries Trail your highs and lows hit it
+
+___
+
+192
+00:10:02,339 --> 00:10:06,060
+testing Don't Force the entries that you
+
+193
+00:10:06,060 --> 00:10:09,000
+want take the entries that you see
+___
+
+
+
+524
+00:25:10,620 --> 00:25:13,140
+what did I tell them I said post charts
+
+525
+00:25:13,140 --> 00:25:14,820
+because it's the only way I'm gonna know
+
+526
+00:25:14,820 --> 00:25:17,220
+where you are and your level of learning
+
+527
+00:25:17,220 --> 00:25:20,580
+and what to direct you to go back to
+
+528
+00:25:20,580 --> 00:25:25,620
+what video to tell you to go and watch
+___
+
+
+
+
+
+
+
+
+
+
 ___  
 ## `vide11`  
 ___  
 ## `vide12`  
 ___  
+
+
 
