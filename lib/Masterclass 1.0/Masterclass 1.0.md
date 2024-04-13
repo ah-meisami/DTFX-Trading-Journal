@@ -1,17 +1,17 @@
-| #Video | Link | Length | Date | Detail | 
+| #Video | Link | Length | Date | Comment | 
 | :---: | :---: | :---: | :---: | :--- |
 | [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `-` |
-| [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `01:58:26` | `2022.09.01` | `draw zones from WICK TO WICK` <br/> `draw BOS with a BODY CLOSURE. ` |
-| [`vide03`](#vide03) | [`vide03`](https://www.youtube.com/watch?v=-O1_MSMVBPc) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide04`](#vide04) | [`vide04`](https://www.youtube.com/watch?v=1Vug-H3r88c) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide05`](#vide05) | [`vide05`](https://www.youtube.com/watch?v=x4X7srbXf1k) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide06`](#vide06) | [`vide06`](https://www.youtube.com/watch?v=Du5ywps8cyI) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide07`](#vide07) | [`vide07`](https://www.youtube.com/watch?v=NL5DO8mJPsc) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide08`](#vide08) | [`vide08`](https://www.youtube.com/watch?v=VV0teyLZWi0) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide09`](#vide09) | [`vide09`](https://www.youtube.com/watch?v=hqX91iZo5_g) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide10`](#vide10) | [`vide10`](https://www.youtube.com/watch?v=RoLhvoEPXsQ) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide11`](#vide11) | [`vide11`](https://www.youtube.com/watch?v=ntyP_urAuZM) | `00:00:00` | `2023.01.01` | `-` |
-| [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:00:00` | `2023.01.01` | `-` |
+| [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `01:58:26` | `2022.09.01` | `draw zones from WICK TO WICK.` <br/> `draw BOS with a BODY CLOSURE. ` |
+| [`vide03`](#vide03) | [`vide03`](https://www.youtube.com/watch?v=-O1_MSMVBPc) | `01:43:27` | `2023.05.28` | `-` |
+| [`vide04`](#vide04) | [`vide04`](https://www.youtube.com/watch?v=1Vug-H3r88c) | `02:39:33` | `2022.05.13` | `-` |
+| [`vide05`](#vide05) | [`vide05`](https://www.youtube.com/watch?v=x4X7srbXf1k) | `03:08:04` | `2022.06.24` | `-` |
+| [`vide06`](#vide06) | [`vide06`](https://www.youtube.com/watch?v=Du5ywps8cyI) | `02:00:36` | `2022.06.23` | `-` |
+| [`vide07`](#vide07) | [`vide07`](https://www.youtube.com/watch?v=NL5DO8mJPsc) | `03:45:21` | `2022.06.16` | `-` |
+| [`vide08`](#vide08) | [`vide08`](https://www.youtube.com/watch?v=VV0teyLZWi0) | `03:54:46` | `2022.06.17` | `-` |
+| [`vide09`](#vide09) | [`vide09`](https://www.youtube.com/watch?v=hqX91iZo5_g) | `00:26:41` | `2023.06.22` | `-` |
+| [`vide10`](#vide10) | [`vide10`](https://www.youtube.com/watch?v=RoLhvoEPXsQ) | `01:14:24` | `2023.07.03` | `-` |
+| [`vide11`](#vide11) | [`vide11`](https://www.youtube.com/watch?v=ntyP_urAuZM) | `01:01:33` | `2023.06.01` | `-` |
+| [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:58:52` | `2023.11.11` | `-` |
 
 ___  
 ## `vide01`
