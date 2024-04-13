@@ -4,6 +4,7 @@
 [`Windsor Brokers User Portal`](https://bz.myuserhub.com/welcome)
 [`Aban Tether`](https://abantether.com/)
 [`Trading View`](https://www.tradingview.com/)
+[`Bar Chart`](https://www.barchart.com/)
 ___
 [`@RealWeirdGene`](https://drive.google.com/drive/u/0/folders/10g66pXVHT7Av0aDXilCAQdtNgYDP-5Ri)
 [`Moore Research Center`](https://www.mrci.com/web/index.php)
@@ -15,5 +16,48 @@ ___
 ___
 | #Book | Title |
 | :---: | :--- |
-| [`1`](https://www.amazon.com/Financial-Behavior-Services-Products-Investments/dp/0190269995) | `Financial Behavior` |
+| [`1`](https://www.amazon.com/Financial-Behavior-Services-Products-Investments/dp/0190269995) | `Financial Behavior: Players, Services, Products, and Markets` |
 | [`2`](https://www.amazon.com/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634) | `Irrational Exuberance` |
+___
+| #Article | Title |
+| [``](https://tradethepool.com/change-your-trading-habits-2/) | `HOW TO CHANGE YOUR TRADING HABITS` |
+___
+
+
+Behavioral bias
+- [DTFX-Trading-Journal](#dtfx-trading-journal)
+  - [`InternalFactors`](#internalfactors)
+
+## `InternalFactors`
+- Cognitive bias 
+- Emotional bias
+
+
+Social bias
+Collection of
+information
+› Availability heuristic › Representativeness bias › Regret aversion
+Processing of information
+› Conformity effect
+› Availability cascade
+› Herding behaviour
+› Disposition effect
+› Loss aversion
+› Break even effect
+› House money effect
+› Endowment effect
+› Status quo bias
+› Overconfidence
+› Self-attribution bias
+› Anchoring effect
+› Gambler’s fallacy
+› Mean reversion
+› Mental accounting
+› Cognitive dissonance
+› Confirmation bias
+› Familiarity bias
+› Home bias
+› Illusion of knowledge
+› Illusion of control
+Figure 11.1 Main Types of Bias Affecting Traders’ Investment Decisions. The figure
+shows several types of bias affecting traders’ investment decisions. Source: Adapted from
