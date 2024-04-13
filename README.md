@@ -21,6 +21,7 @@ ___
 | [`2`](https://www.amazon.com/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634) | `Irrational Exuberance` |
 ___
 | #Article | Title |
+| :---: | :--- |
 | [`1`](https://tradethepool.com/change-your-trading-habits-2/) | `HOW TO CHANGE YOUR TRADING HABITS` |
 | [`2`](https://www.investopedia.com/articles/basics/13/how-to-develop-trading-brain.asp) | `How to Develop a "Trading Brain"` |
 | [`3`](https://medium.com/superorder/top-secrets-of-learning-from-bad-trades-a20c57a17a91) | `Top Secrets of Learning from Bad Trades` |
