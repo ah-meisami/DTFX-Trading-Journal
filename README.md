@@ -21,7 +21,7 @@ ___
 | [`2`](https://www.amazon.com/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634) | `Irrational Exuberance` |
 ___
 | #Article | Title |
-| [``](https://tradethepool.com/change-your-trading-habits-2/) | `HOW TO CHANGE YOUR TRADING HABITS` |
+| [`1`](https://tradethepool.com/change-your-trading-habits-2/) | `HOW TO CHANGE YOUR TRADING HABITS` |
 ___
 
 several types of bias affecting traders’ investment decisions
