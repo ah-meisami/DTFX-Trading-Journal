@@ -8,3 +8,8 @@ ___
 [`@RealWeirdGene`](https://drive.google.com/drive/u/0/folders/10g66pXVHT7Av0aDXilCAQdtNgYDP-5Ri)
 [`Moore Research Center`](https://www.mrci.com/web/index.php)
 ___
+
+| #Rule | Carl Gustav Jung |
+| :---: | :--- |
+| 1 | `Man needs difficulties; they are necessary for health.` |
+| 2 | `There's no coming to consciousness without pain.` |
