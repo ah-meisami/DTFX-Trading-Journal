@@ -1,6 +1,6 @@
 | #Video | Link | Length | Date | Detail | 
 | :---: | :---: | :---: | :---: | :--- |
-| [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `00:00:00` | `2023.01.01` | `-` |
+| [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `-` |
 | [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `00:00:00` | `2023.01.01` | `-` |
 | [`vide03`](#vide03) | [`vide03`](https://www.youtube.com/watch?v=-O1_MSMVBPc) | `00:00:00` | `2023.01.01` | `-` |
 | [`vide04`](#vide04) | [`vide04`](https://www.youtube.com/watch?v=1Vug-H3r88c) | `00:00:00` | `2023.01.01` | `-` |
