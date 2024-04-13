@@ -1,4 +1,4 @@
-| #Video | Link | Length | Date | Comment | 
+| #Video | YT Link | Length | Date | Comment | 
 | :---: | :---: | :---: | :---: | :--- |
 | [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `-` |
 | [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `01:58:26` | `2022.09.01` | `draw zones from WICK TO WICK.` <br/> `draw BOS with a BODY CLOSURE. ` |
@@ -17,14 +17,11 @@ ___
 ## `vide01`
 ___  
 ## `vide02`
-##### ⚠️ Why, there is no need for price to go above the 50% of the range?  There is no Volume & no Consolidation
-##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s]  
-
-##### ⚠️ Why this Wick considered as a *Manipulation*? 1.Liquidity Grab 2.Come Back to Range 3.Body Closed inside the range
-##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h29m19s]  
-##### ⚠️ we are looking to the left to give us the areas that's providing us with the retracement
-#####    we are looking to the right to give us the areas that are providing us with the continuations
-##### [https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s]  
+| #Time | Tips |
+| :---: | :--- |
+| [`01h13m00s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s) | `Why, there is no need for price to go above the 50% of the range?` <br/> `There is no Volume & no Consolidation` |
+| [`01h29m19s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h29m19s) | `Why this Wick considered as a *Manipulation*?` <br/> `1.Liquidity Grab 2.Come Back to Range 3.Body Closed inside the range` |
+| [`01h46m25s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s) | `Look at the LEFT for the Retracement` <br/> `Look at the LEFT for the Continuation` |
 ___  
 ## `vide03`
 ##### ⚠️ We're not paying attention to *structure*,  we're paying attention to *strong move*
