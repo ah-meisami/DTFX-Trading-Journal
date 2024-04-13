@@ -14,7 +14,8 @@ ___
 | :---: | :--- |
 | [`1`](https://www.instagram.com/p/CVvDo_-rDxX/) | `Man needs difficulties; they are necessary for health.` |
 | [`2`](https://www.goodreads.com/author/quotes/38285.C_G_Jung) | `There's no coming to consciousness without pain.` |
-| [`3`](https://www.instagram.com/p/C5tgh-QvIYM/) | `Through experience, I've learned that trading isn't just about knowledge; it's about behavior. Teaching effective trading behavior can be challenging, even for highly intelligent individuals.` |
+| [`3`](https://www.instagram.com/p/C5tgh-QvIYM/) | `Through experience, I've learned that trading isn't just about knowledge; it's about behavior.` |
+| [`4`](https://www.instagram.com/p/C5thN0dOKEa/) | `Opt for the discomfort of discipline over the pain of regret.` |
 ___
 | #Book | Title |
 | :---: | :--- |
