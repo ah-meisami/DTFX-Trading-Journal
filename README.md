@@ -11,5 +11,5 @@ ___
 
 | #Rule | Carl Gustav Jung |
 | :---: | :--- |
-| 1 | `Man needs difficulties; they are necessary for health.` |
-| 2 | `There's no coming to consciousness without pain.` |
+| [`1`]() | `Man needs difficulties; they are necessary for health.` |
+| [`2`]() | `There's no coming to consciousness without pain.` |
