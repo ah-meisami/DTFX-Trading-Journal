@@ -19,15 +19,15 @@ ___
 ## `vide02`
 | #Time | Tips |
 | :---: | :--- |
-| [`01h13m00s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s) | `Why, there is no need for price to go above the 50% of the range?` <br/> `There is no Volume & no Consolidation` |
-| [`01h29m19s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h29m19s) | `Why this Wick considered as a *Manipulation*?` <br/> `1.Liquidity Grab 2.Come Back to Range 3.Body Closed inside the range` |
-| [`01h46m25s`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s) | `Look at the LEFT for the Retracement` <br/> `Look at the LEFT for the Continuation` |
+| [`01:13:00`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h13m00s) | `Why, there is no need for price to go above the 50% of the range?` <br/> `There is no Volume & no Consolidation` |
+| [`01:29:19`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h29m19s) | `Why this Wick considered as a *Manipulation*?` <br/> `1.Liquidity Grab 2.Come Back to Range 3.Body Closed inside the range` |
+| [`01:46:25`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h46m25s) | `Look at the LEFT for the Retracement` <br/> `Look at the LEFT for the Continuation` |
 ___  
 ## `vide03`
 | #Time | Tips |
 | :---: | :--- |
-| [`01h05m46s`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s) | `We're not paying attention to *structure*,  we're paying attention to *strong move*` |
-| [`01h07m27s`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s) | `Market structure belongs to HTF, Order flow belongs to LTF` |
+| [`01:05:46`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s) | `We're not paying attention to *structure*,  we're paying attention to *strong move*` |
+| [`01:07:27`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s) | `Market structure belongs to HTF, Order flow belongs to LTF` |
 ___  
 ## `vide04`  
 ##### ⚠️ Candlestick Structure, Overall Structure, Secondary Structure, Intermediary Structure
@@ -107,7 +107,38 @@ trade it
 ___
 
 
+1102
+00:51:45,240 --> 00:51:46,559
+I don't know whether we bullish or
 
+1103
+00:51:46,559 --> 00:51:48,119
+bearish on the day I have no idea I
+
+1104
+00:51:48,119 --> 00:51:49,920
+don't care
+
+1105
+00:51:49,920 --> 00:51:52,980
+because we're intraday Traders we you
+
+1106
+00:51:52,980 --> 00:51:55,440
+know scalping
+
+1107
+00:51:55,440 --> 00:51:57,480
+and the power of 10 points
+
+1108
+00:51:57,480 --> 00:51:59,579
+is in each
+
+1109
+00:51:59,579 --> 00:52:02,280
+and every swing
+___
 
 
 
