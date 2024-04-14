@@ -1,6 +1,6 @@
 | #Video | YT Link | Length | Date | Comment | 
 | :---: | :---: | :---: | :---: | :--- |
-| [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `-` |
+| [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `Candlestick Structure ` |
 | [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `01:58:26` | `2022.09.01` | `draw zones from WICK TO WICK.` <br/> `draw BOS with a BODY CLOSURE. ` |
 | [`vide03`](#vide03) | [`vide03`](https://www.youtube.com/watch?v=-O1_MSMVBPc) | `01:43:27` | `2023.05.28` | `-` |
 | [`vide04`](#vide04) | [`vide04`](https://www.youtube.com/watch?v=1Vug-H3r88c) | `02:39:33` | `2022.05.13` | `-` |
@@ -26,8 +26,8 @@ ___
 ## `vide03`
 | #Time | Tips |
 | :---: | :--- |
-| [`01:05:46`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h05m46s) | `We're not paying attention to *structure*,  we're paying attention to *strong move*` |
-| [`01:07:27`](https://www.youtube.com/watch?v=Xw1CG5HWVts#t=01h07m27s) | `Market structure belongs to HTF, Order flow belongs to LTF` |
+| [`01:05:46`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h05m46s) | `We're not paying attention to *structure*,  we're paying attention to *strong move*` |
+| [`01:07:27`](https://www.youtube.com/watch?v=-O1_MSMVBPc#t=01h07m27s) | `Market structure belongs to HTF, Order flow belongs to LTF` |
 ___  
 ## `vide04`  
 ##### ⚠️ Candlestick Structure, Overall Structure, Secondary Structure, Intermediary Structure
