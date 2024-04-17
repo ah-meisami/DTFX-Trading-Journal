@@ -1,4 +1,4 @@
-# DTFX-Trading-Journal 💚 ⚠️ 🔥 🔴🟠⚪🟣🟢🟡🔵 
+# DTFX-Trading-Journal 💚⚠️🔥🔴🟠⚪🟣🟢🟡🔵 
 
 [`Windsor Brokers WikiFX`](https://www.wikifx.com/en/dealer/1061981862.html)
 [`Windsor Brokers User Portal`](https://km.mywmportal.com/welcome)
@@ -21,6 +21,7 @@ ___
 | :---: | :--- |
 | [`1`](https://www.amazon.com/Financial-Behavior-Services-Products-Investments/dp/0190269995) | `Financial Behavior: Players, Services, Products, and Markets` |
 | [`2`](https://www.amazon.com/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634) | `Irrational Exuberance` |
+| [`3`](https://www.amazon.com/Psycho-Cybernetics-Updated-Expanded-Maxwell-Maltz/dp/0399176136) | `Psycho-Cybernetics` |
 ___
 | #Article | Title |
 | :---: | :--- |
