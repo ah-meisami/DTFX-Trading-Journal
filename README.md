@@ -31,7 +31,4 @@ ___
 | [`4`](https://hello-74789.medium.com/trading-mistakes-and-lessons-30a9771d3f4d) | `Trading Mistakes and Lessons` |
 ___
 
-
-[https://twitter.com/fx_Stranger1912/status/1780379551656251848]
-
-![img](/pic/1.PriceFractal.png "img")
+[![img](/pic/1.PriceFractal.png)](https://twitter.com/fx_Stranger1912/status/1780379551656251848)
