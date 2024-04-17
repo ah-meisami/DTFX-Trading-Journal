@@ -30,5 +30,5 @@ ___
 | [`3`](https://medium.com/superorder/top-secrets-of-learning-from-bad-trades-a20c57a17a91) | `Top Secrets of Learning from Bad Trades` |
 | [`4`](https://hello-74789.medium.com/trading-mistakes-and-lessons-30a9771d3f4d) | `Trading Mistakes and Lessons` |
 ___
-
 [![img](/pic/1.PriceFractal.png)](https://twitter.com/fx_Stranger1912/status/1780379551656251848)
+___
