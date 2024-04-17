@@ -34,4 +34,4 @@ ___
 
 [https://twitter.com/fx_Stranger1912/status/1780379551656251848]
 
-![Image](/pic/Price is Fractal.png "a title")
+![img](/pic/1.PriceFractal.png "img")
