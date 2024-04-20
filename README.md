@@ -17,11 +17,13 @@ ___
 | [`3`](https://www.instagram.com/p/C5tgh-QvIYM/) | `Through experience, I've learned that trading isn't just about knowledge; it's about behavior.` |
 | [`4`](https://www.instagram.com/p/C5thN0dOKEa/) | `Opt for the discomfort of discipline over the pain of regret.` |
 ___
-| #Book | Title |
-| :---: | :--- |
-| [`1`](https://www.amazon.com/Financial-Behavior-Services-Products-Investments/dp/0190269995) | `Financial Behavior: Players, Services, Products, and Markets` |
-| [`2`](https://www.amazon.com/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634) | `Irrational Exuberance` |
-| [`3`](https://www.amazon.com/Psycho-Cybernetics-Updated-Expanded-Maxwell-Maltz/dp/0399176136) | `Psycho-Cybernetics` |
+| #Book | Title | Author | 
+| :---: | :--- | :--- |
+| [`1`](https://www.amazon.com/Financial-Behavior-Services-Products-Investments/dp/0190269995) | `Financial Behavior: Players, Services, Products, and Markets` | `Kent Baker` |
+| [`2`](https://www.amazon.com/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634) | `Irrational Exuberance` | `-` |
+| [`3`](https://www.amazon.com/Psycho-Cybernetics-Updated-Expanded-Maxwell-Maltz/dp/0399176136) | `Psycho-Cybernetics` | `Maxwell Maltz` |
+| [`4`]() | `Investing Psychology` | `Tim Richards` |
+
 ___
 | #Article | Title |
 | :---: | :--- |
