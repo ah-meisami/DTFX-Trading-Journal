@@ -6,6 +6,8 @@
 [`Trading View`](https://www.tradingview.com/)
 [`Bar Chart`](https://www.barchart.com/)
 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
+[`iran-broker`](https://iranbroker.net/)
+[`daily-webinar`](https://www.skyroom.online/ch/cwg/daily-webinar)
 ___
 [`@RealWeirdGene`](https://drive.google.com/drive/u/0/folders/10g66pXVHT7Av0aDXilCAQdtNgYDP-5Ri)
 [`Moore Research Center`](https://www.mrci.com/web/index.php)
