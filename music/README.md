@@ -4,7 +4,7 @@ ___
 ___
 [1000Nights](https://bibis.ir/ed-sheeran-1000-nights/)
 | English | Persian | 
-| :---: | :---: |
+| :--- | ---: |
 | `Oh, I been on for a thousand nights` | `اوه ، من بمدت هزار شب بیدار بودم` |
 | `New York to London, different city every day, yeah` | `از نیویورک به لندن، هر روز تو شهرهای مختلف، آره` |
 | `Playin’ on, playin’ on, puttin’ up 50 thousand lights` | `هی برنامه اجرا میکردم، هی برنامه اجرا میکردم، پنجاه هزار تا چراغ نصب میکردم` |
