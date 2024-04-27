@@ -154,7 +154,7 @@ ___
 ___
 326
 00:13:20,519 --> 00:13:24,060
-`you have no time to waste`
+`🔴you have no time to waste`
 
 `once you become uncomfortable to the point where you can't even sleep at night`
 `imagine having to study under that type of atmosphere, under that type of mental capacity`
@@ -171,16 +171,10 @@ ___
 `so this is considered a 🔴Weak-High:`
 `this is the high that put in this low, `
 
-
-
-
-
-
-
-
-
-
-
+___
+980
+00:42:02,640 --> 00:42:05,820
+`there's a new 🔴Devil at that new 🔴Level`
 ___
 
 ___  
