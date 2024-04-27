@@ -162,19 +162,16 @@ ___
 ___
 365
 00:15:01,740 --> 00:15:03,839  
-`you see, what I'm saying guys, how I'm expecting it to come about these Highs`
-`if it does a drop, I would expect it to Rebound in here`
-`and then trade back above here`
-`but I'm expecting, these these highs to be taken out`
-
-
-[![DTFX](pic/Video%2011%2015-24%20screenshot.png)](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h15m01s)
-
+`you see, what I'm saying guys, how I'm expecting it to come about these Highs`  
+`if it does a drop, I would expect it to Rebound in here`  
+`and then trade back above here`  
+`but I'm expecting, these these highs to be taken out`  
 
 `why particularly? because we have 1.this low here, 2.this (low) here, traded down to this low and back up to the high that brought this here`
 `so this is considered a 🔴Weak-High:`
 `this is the high that put in this low, `
 
+[![DTFX](pic/Video%2011%2015-24%20screenshot.png)](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h15m01s)
 ___
 980
 00:42:02,640 --> 00:42:05,820
