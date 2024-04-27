@@ -142,18 +142,18 @@ ___
 
 ___  
 ## `vide11`  
-66
-00:02:42,900 --> 00:02:45,660
+66  
+00:02:42,900 --> 00:02:45,660  
 `if I know that my brain is worth millions of dollars what am I doing here`
 ___
 140
-00:05:42,960 --> 00:05:46,919
+00:05:42,960 --> 00:05:46,919  
 `there was no more room to grow`
 `every single job I've ever gotten, I knew my work, the next person's work, the supervisors work, and the person above them`
 `but then I realized that, no matter how you know good of a worker, I am I'm still a worker.`
 ___
 326
-00:13:20,519 --> 00:13:24,060
+00:13:20,519 --> 00:13:24,060  
 `🔴you have no time to waste`
 
 `once you become uncomfortable to the point where you can't even sleep at night`
@@ -161,11 +161,15 @@ ___
 `so, don't wait, don't wait, until it gets to that place`
 ___
 365
-00:15:01,740 --> 00:15:03,839
+00:15:01,740 --> 00:15:03,839  
 `you see, what I'm saying guys, how I'm expecting it to come about these Highs`
 `if it does a drop, I would expect it to Rebound in here`
 `and then trade back above here`
 `but I'm expecting, these these highs to be taken out`
+
+
+[![DTFX](pic/Video%2011%2015-24%20screenshot.png)](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h15m01s)
+
 
 `why particularly? because we have 1.this low here, 2.this (low) here, traded down to this low and back up to the high that brought this here`
 `so this is considered a 🔴Weak-High:`
