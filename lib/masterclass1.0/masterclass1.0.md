@@ -1,6 +1,6 @@
 | #Video | YT Link | Length | Date | Comment | 
 | :---: | :---: | :---: | :---: | :--- |
-| [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `Candlestick Structure ` |
+| [`vide01`](#vide01) | [`vide01`](https://www.youtube.com/watch?v=y4rE-jVqrRY) | `02:28:16` | `2022.11.05` | `Market Structure` `Candlestick Structure` |
 | [`vide02`](#vide02) | [`vide02`](https://www.youtube.com/watch?v=Xw1CG5HWVts) | `01:58:26` | `2022.09.01` | `draw zones from WICK TO WICK.` <br/> `draw BOS with a BODY CLOSURE. ` |
 | [`vide03`](#vide03) | [`vide03`](https://www.youtube.com/watch?v=-O1_MSMVBPc) | `01:43:27` | `2023.05.28` | `-` |
 | [`vide04`](#vide04) | [`vide04`](https://www.youtube.com/watch?v=1Vug-H3r88c) | `02:39:33` | `2022.05.13` | `-` |
@@ -184,11 +184,12 @@ ___
 
 
 
+[![DTFX](pic/Video%2012%2013-13%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
+[![DTFX](pic/Video%2012%2035-43%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
+[![DTFX](pic/Video%2012%2036-19%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
 
 
 
 
 
-[![DTFX](https://i.ytimg.com/vi/BGV57yOxkig/maxresdefault.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
-
-
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/0.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
