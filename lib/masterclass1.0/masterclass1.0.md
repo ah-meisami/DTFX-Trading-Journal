@@ -142,19 +142,13 @@ ___
 
 ___  
 ## `vide11`  
-66  
-00:02:42,900 --> 00:02:45,660  
-`if I know that my brain is worth millions of dollars what am I doing here`
+[`if I know that my brain is worth millions of dollars what am I doing here`](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h04m42s)
 ___
-140
-00:05:42,960 --> 00:05:46,919  
-`there was no more room to grow`
+[`there was no more room to grow`](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h05m42s)
 `every single job I've ever gotten, I knew my work, the next person's work, the supervisors work, and the person above them`
 `but then I realized that, no matter how you know good of a worker, I am I'm still a worker.`
 ___
-326
-00:13:20,519 --> 00:13:24,060  
-`🔴you have no time to waste`
+[`🔴you have no time to waste`](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h13m24s)
 
 `once you become uncomfortable to the point where you can't even sleep at night`
 `imagine having to study under that type of atmosphere, under that type of mental capacity`
@@ -173,11 +167,7 @@ ___
 
 [![DTFX](pic/Video%2011%2015-24%20screenshot.png)](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h15m01s)
 ___
-980
-00:42:02,640 --> 00:42:05,820
-`there's a new 🔴Devil at that new 🔴Level`
-___
-
+[`there's a new 🔴Devil at that new 🔴Level`](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h42m05s)
 ___  
 ## `vide12`  
 ___  
