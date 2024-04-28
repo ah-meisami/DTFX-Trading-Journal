@@ -176,10 +176,10 @@ The lessons in this course will prepare you for Institutional Trading
 
 Credit: 
 
-[`The Inner Circle Trader (SMC Indirectly)`](https://www.youtube.com/@InnerCircleTrader)
-[`Pips Of Persia (Supply or Demand zone Responsible for something)`](https://www.youtube.com/@PipsOfPersia)
-[`Smart Money Source (Multi-Timeframe Analysis)`](https://www.youtube.com/c/SmartMoneySource)
-[`MentFX (Wyckoff)`](https://www.youtube.com/@mentfx)
+[`The Inner Circle Trader (SMC Indirectly)`](https://www.youtube.com/@InnerCircleTrader)  
+[`Pips Of Persia (Supply or Demand zone Responsible for something)`](https://www.youtube.com/@PipsOfPersia)  
+[`Smart Money Source (Multi-Timeframe Analysis)`](https://www.youtube.com/c/SmartMoneySource)  
+[`MentFX (Wyckoff)`](https://www.youtube.com/@mentfx)  
 ___  
 
 
