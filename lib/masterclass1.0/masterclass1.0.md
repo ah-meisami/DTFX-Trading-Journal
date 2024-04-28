@@ -11,7 +11,7 @@
 | [`vide09`](#vide09) | [`vide09`](https://www.youtube.com/watch?v=hqX91iZo5_g) | `00:26:41` | `2023.06.22` | `-` |
 | [`vide10`](#vide10) | [`vide10`](https://www.youtube.com/watch?v=RoLhvoEPXsQ) | `01:14:24` | `2023.06.30` | `Psyche:` `How to Read DTFX PlayList` `How do like @LowkeyTrading`|
 | [`vide11`](#vide11) | [`vide11`](https://www.youtube.com/watch?v=ntyP_urAuZM) | `01:01:33` | `2023.06.23` | `Psyche:` `what got me into trading` |
-| [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:58:52` | `2023.11.08` | `Psyche:` `Progress in trading using charts` |
+| [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:58:52` | `2023.11.08` | `Psyche:` `Progress in trading career using charts` |
 
 ___  
 ## `vide01`
@@ -184,6 +184,9 @@ ___
 
 
 
-[![DTFX](pic/Video%2012%2013-13%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
-[![DTFX](pic/Video%2012%2035-43%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
-[![DTFX](pic/Video%2012%2036-19%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
+
+
+
+
+
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/0.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
