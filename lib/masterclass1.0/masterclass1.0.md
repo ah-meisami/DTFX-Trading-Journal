@@ -189,4 +189,7 @@ ___
 
 
 
-[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/10.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/0.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/0.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig#t=00h15m00s "DTFX")
+
