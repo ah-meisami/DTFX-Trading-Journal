@@ -11,7 +11,7 @@
 | [`vide09`](#vide09) | [`vide09`](https://www.youtube.com/watch?v=hqX91iZo5_g) | `00:26:41` | `2023.06.22` | `-` |
 | [`vide10`](#vide10) | [`vide10`](https://www.youtube.com/watch?v=RoLhvoEPXsQ) | `01:14:24` | `2023.06.30` | `Psyche:` `How to Read DTFX PlayList` `How do like @LowkeyTrading`|
 | [`vide11`](#vide11) | [`vide11`](https://www.youtube.com/watch?v=ntyP_urAuZM) | `01:01:33` | `2023.06.23` | `Psyche:` `what got me into trading` |
-| [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:58:52` | `2023.11.08` | `-` |
+| [`vide12`](#vide12) | [`vide12`](https://www.youtube.com/watch?v=BGV57yOxkig) | `00:58:52` | `2023.11.08` | `Psyche:` `Progress in trading using charts` |
 
 ___  
 ## `vide01`
@@ -166,7 +166,24 @@ ___
 [`there's a new 🔴Devil at that new 🔴Level`](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h42m05s)
 ___  
 ## `vide12`  
+I taught these concepts when i was very new to a limited understanding of Smart Money Concepts. 
+I am told that The Inner Circle Trader is the author of SMC so FULL credit goes to him for the names and uses of these concepts. I do not claim to trade or teach SMC the way the author intended but i am grateful for the limited knowledge i drew from it and how the material helped grow my understanding. 
+
+With that said, these concepts helped me to construct my own unique perspective of how to find trades within the market cycles of the one minute timeframe. I've used them specifically to place names on how i see the market in a fractal way. 
+
+The lessons in this course will prepare you for Institutional Trading 
+
+
+Credit: 
+
+[`The Inner Circle Trader (SMC Indirectly)`](https://www.youtube.com/@InnerCircleTrader)
+[`Pips Of Persia (Supply or Demand zone Responsible for something)`](https://www.youtube.com/@PipsOfPersia)
+[`Smart Money Source (Multi-Timeframe Analysis)`](https://www.youtube.com/c/SmartMoneySource)
+[`MentFX (Wyckoff)`](https://www.youtube.com/@mentfx)
 ___  
 
 
 
+[![DTFX](pic/Video%2012%2013-13%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
+[![DTFX](pic/Video%2012%2035-43%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
+[![DTFX](pic/Video%2012%2036-19%20screenshot.png)](https://www.youtube.com/watch?v=BGV57yOxkig#t=00h00m00s)
