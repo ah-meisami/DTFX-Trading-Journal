@@ -190,6 +190,10 @@ ___
 
 
 [![DTFX](http://img.youtube.com/vi/BGV57yOxkig/0.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/1.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/2.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/3.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/4.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
+[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/5.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig "DTFX")
 
-[![DTFX](http://img.youtube.com/vi/BGV57yOxkig/0.jpg)](http://www.youtube.com/watch?v=BGV57yOxkig#t=00h15m00s "DTFX")
 
