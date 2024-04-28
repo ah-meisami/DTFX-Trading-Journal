@@ -152,7 +152,6 @@ ___
 `imagine having to study under that type of atmosphere, under that type of mental capacity`
 `so, don't wait, don't wait, until it gets to that place`
 ___
-365
 [`you see, what I'm saying guys, how I'm expecting it to come about these Highs`](https://www.youtube.com/watch?v=ntyP_urAuZM#t=00h15m03s)  
 `if it does a drop, I would expect it to Rebound in here`    
 `and then trade back above here`   
