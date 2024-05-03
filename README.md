@@ -37,6 +37,7 @@ ___
 [![DTFX](/pic/1.PriceFractal.png)](https://twitter.com/fx_Stranger1912/status/1780379551656251848)
 ___
 | #Concept | Contradiction |
+| :---: | :--- |
 | [`1`]()  | `Analysis` vs. `Entry` | 
 | [`2`]()  | `Market Structure` vs. `Liquidity` | 
 | [`3`]()  | `Rejection` vs. `Manipulation (Pierce)` | 
