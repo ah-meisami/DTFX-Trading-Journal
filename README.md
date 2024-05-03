@@ -40,5 +40,49 @@ ___
 | :---: | :--- |
 | [`1`]()  | `Analysis` vs. `Entry` | 
 | [`2`]()  | `Market Structure` vs. `Liquidity` | 
-| [`3`]()  | `Rejection` vs. `Manipulation (Pierce)` | 
+| [`3`]()  | `Rejection` vs. `Manipulation` vs. `Pierce` | 
+| [`4`]()  | `Collaboration` vs. `Competition` | 
+
 ___
+
+
+[https://discord.com/channels/1234208233153888378/1234208233153888381/1235461413393268736]
+[https://twitter.com/dzcircletrader/status/1785618480118616117]
+After backtesting #DTFX For weeks now, here's my two cents on what you should focus on first 👇🏻
+
+- Market Structure : The structure isn't about highs and lows but validated highs and lows (VH & VL), 
+                    you should focus on spotting the right movement by validating your highs and lows.
+
+- Zones : It's the movement that caused a continuation and or break of structure.
+        Again ! A validated Zone should contain a validated high and a validated low (VZ). 
+
+The zone consists of Two fractals that should be considered as :
+- SDR (The last movement that causes the break of structure and or a continuation)
+- The origin (the original move that caused a break of structure and or a continuation.
+
+Price will always come back to mitigate the SDR and the original move, 
+you can trade both of the zones because price will give you a good reaction for a 1:1 to 1:3R trades within these moves. 
+
+If you mark up your zones and price comes to it, 
+all you have to do is to wait for the price to shift on the LTF to give you an additional confirmation. 
+
+Count your swings, Price will usually take 4 to 6 swings before shifting direction.
+(Swing points are the moves between a VH & VL) 
+
+Here's in the picture what a validated low (down close candle) and a validated high (up close candle) look like. 
+Again ! If you are feeling manipulated by price, it's not the market's fault ... Go backtest and see what you are reading wrongly.
+
+If the market is doing X it will do Y and so on...
+Again ! Go backtest, no one is here to save you
+
+---The Algerian Circle Trade
+
+___
+
+To love who you are,  
+you can't hate the experiences that shaped you.  
+Every experience, whether good or bad, has impacted you in some way.  
+Some days we win, and some days we learn from the loss.   
+Continue to work hard.   
+Be proud of where you have been and where you’re going!
+[![DTFX](/pic/2.YouCan'tHate.jpg)](https://www.facebook.com/photo/?fbid=4964327520273993&set=a.979181968788588&locale=ku_TR)
