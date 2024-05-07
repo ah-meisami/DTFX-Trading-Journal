@@ -7,7 +7,10 @@
 [`Bar Chart`](https://www.barchart.com/)
 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
 [`iran-broker`](https://iranbroker.net/)
-[`daily-webinar`](https://www.skyroom.online/ch/cwg/daily-webinar)
+[`daily-webinar`](https://www.skyroom.online/ch/cwg/daily-webinar)   
+
+
+[` 5sec and 15 sec chart`](https://www.fxblue.com/market-data/chart/NAS100)
 ___
 [`@RealWeirdGene`](https://drive.google.com/drive/u/0/folders/10g66pXVHT7Av0aDXilCAQdtNgYDP-5Ri)
 [`Moore Research Center`](https://www.mrci.com/web/index.php)
@@ -42,6 +45,7 @@ ___
 | [`2`]()  | `Market Structure` vs. `Liquidity` | 
 | [`3`]()  | `Rejection` vs. `Manipulation` vs. `Pierce` | 
 | [`4`]()  | `Collaboration` vs. `Competition` | 
+| [`5`]()  | `VH VL VZ` vs. `PH PL` vs. `WH WL` vs. `BOS FBOS` vs `Flip FFlip` vs. `Respected Violated` | 
 
 ___
 
@@ -86,3 +90,9 @@ Some days we win, and some days we learn from the loss.
 Continue to work hard.   
 Be proud of where you have been and where you’re going!
 [![DTFX](/pic/2.YouCan'tHate.jpg)](https://www.facebook.com/photo/?fbid=4964327520273993&set=a.979181968788588&locale=ku_TR)
+___
+💚 [`Process of finding setups DTFX`](https://www.summarize.tech/www.youtube.com/watch?v=qwQe72OTwVo)
+support and resistance (SNDR) levels
+
+[`STOP Letting the Market Markers LIQUIDATE YOU | NQ DAYTRADING REVIEW May 2nd 2024`](https://www.youtube.com/watch?v=Rb8DzwMawoE)
+
