@@ -45,7 +45,7 @@ ___
 | [`2`]()  | `Market Structure` vs. `Liquidity` | 
 | [`3`]()  | `Rejection` vs. `Manipulation` vs. `Pierce` | 
 | [`4`]()  | `Collaboration` vs. `Competition` | 
-| [`5`]()  | `VH VL VZ` vs. `PH PL` vs. `WH WL` vs. `BOS FBOS` vs `Flip FFlip` vs. `Respected Violated` | 
+| [`5`]()  | `VH VL VZ` vs. `PH PL` vs. `WH WL` vs. `BOS FBOS` vs `Flip FFlip` vs. `Respected Violated` vs. `BOR TOR` | 
 
 ___
 
