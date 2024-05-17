@@ -45,8 +45,14 @@ ___
 | [`2`]()  | `Market Structure` vs. `Liquidity` | 
 | [`3`]()  | `Rejection` vs. `Manipulation` vs. `Pierce` | 
 | [`4`]()  | `Collaboration` vs. `Competition` | 
-| [`5`]()  | `VH VL VZ` vs. `PH PL` vs. `WH WL` vs. `BOS FBOS` vs `Flip FFlip` vs. `Respected Violated` vs. `BOR TOR` | 
+| [`5`](https://youtu.be/Um1DuUIc1-U?t=589)  | `Easy` vs. `Hard` | 
+| [`6`]()  | `VH VL VZ` vs. `PH PL` vs. `WH WL` vs. `BOS FBOS` vs `Flip FFlip` vs. `Respected Violated` vs. `BOR TOR` | 
 
+
+
+[`VH`](https://discord.com/channels/1234208233153888378/1234274825128771616/1237673116029948006)
+[`VH`](https://discord.com/channels/1234208233153888378/1234274825128771616/1237675584360939551)
+[`VH`](https://discord.com/channels/1234208233153888378/1234274825128771616/1237680602937950248)
 ___
 
 
@@ -96,3 +102,23 @@ support and resistance (SNDR) levels
 
 [`STOP Letting the Market Markers LIQUIDATE YOU | NQ DAYTRADING REVIEW May 2nd 2024`](https://www.youtube.com/watch?v=Rb8DzwMawoE)
 
+[`Valid PB (1.50% of zone 2.SNDR)`](https://discord.com/channels/1234208233153888378/1234274825128771616/1238812835224748093)
+Valid BOS
+Fake Flip
+Validated Structure
+Validated Zone
+
+Trend Profile (BOR TOR)
+Range Profile (BOZ TOZ)
+
+Continuation Profile (WH WL)
+Reversal Profile 
+
+Valid Breakout
+Failing Breakout
+
+
+SNDR that broke SNDR
+
+1. understanding the strength of where price is going to **move** to
+2. understanding the strength of where price is going to **comeback** to
