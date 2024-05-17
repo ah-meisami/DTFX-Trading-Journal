@@ -122,3 +122,7 @@ SNDR that broke SNDR
 
 1. understanding the strength of where price is going to **move** to
 2. understanding the strength of where price is going to **comeback** to
+
+___
+[![DTFX](/pic/3.DTFX.png)](https://x.com/DaveTeachesFX/status/1791208428314017810)
+___
