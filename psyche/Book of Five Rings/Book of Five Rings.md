@@ -1,0 +1,2 @@
+[`The 24 Principles ⛩ Book of Five Rings | Summary 1/2`](https://www.youtube.com/watch?v=gI-SDFuuuRk)
+[`The 24 Principles ⛩ Book of Five Rings | Summary 1/2`](https://www.youtube.com/watch?v=7IIvUuQ8Ptg)
