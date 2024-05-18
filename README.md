@@ -126,3 +126,5 @@ SNDR that broke SNDR
 ___
 [![DTFX](/pic/3.DTFX.png)](https://x.com/DaveTeachesFX/status/1791208428314017810)
 ___
+[![DTFX](/pic/4.VH.VL.png)](https://discord.com/channels/1234208233153888378/1234208233153888381/1241330404301209650)
+___
