@@ -10,3 +10,4 @@
 
 
 
+[`The Only Trading Model You Will Ever Need - Swing Breakout Sequence | SBS`](https://www.youtube.com/watch?v=aN33qDbqa9s)
