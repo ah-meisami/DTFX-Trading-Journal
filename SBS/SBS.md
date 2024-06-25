@@ -5,7 +5,7 @@ SBS[2] First Tap (Pullback)
 SBS[3] Make New Swing (Quick)
 SBS[4] Liquidate FT
 SBS[5] DB/DT Reversal
-SBS[6] Target New Swing
+SBS[6] Target New Swing (Take Profit)
 ```
 
 
