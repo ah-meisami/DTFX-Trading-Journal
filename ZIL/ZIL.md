@@ -1,3 +1,6 @@
+Z.I.L. = Zone to Impulse Levels
+
+
 https://www.youtube.com/watch?v=AP4mQJWVg9w
 
 
@@ -24,3 +27,14 @@ EU https://www.tradingview.com/x/vGQr6dsy/
 
 
 internal Impulse leads you to the external Move
+
+___
+Z.I.L. = Zone to Impulse Levels
+1. Zone Identification
+2. Impulse Levels (for example: the highest high that leads to retracement)
+3. Mechanical Execution
+
+https://www.youtube.com/watch?v=RgpWUR2ZZ-Y
+
+
+
