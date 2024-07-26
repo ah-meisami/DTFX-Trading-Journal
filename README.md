@@ -8,6 +8,7 @@
 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
 [`iran-broker`](https://iranbroker.net/)
 [`daily-webinar`](https://www.skyroom.online/ch/cwg/daily-webinar)   
+[`tronscan.org`](https://tronscan.org/)
 
 
 [` 5sec and 15 sec chart`](https://www.fxblue.com/market-data/chart/NAS100)
