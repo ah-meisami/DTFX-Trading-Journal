@@ -1,0 +1,1 @@
+[`3. The Border Between Seeing and Thinking`](https://www.amazon.com/Border-Between-Seeing-Thinking-PHILOSOPHY/dp/0197622224)
